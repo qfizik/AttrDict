@@ -1,7 +1,8 @@
 """
 An implementation of MutableAttr.
 """
-from collections import Mapping
+#from collections import Mapping
+from collections.abc import Mapping
 
 import six
 
